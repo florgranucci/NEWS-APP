@@ -1,6 +1,6 @@
 # NewsApp
 
-### This was my first Angular app built in 2020
+#### This was my first Angular app built in 2020
 Site: https://freshdaily-news.netlify.app/
 
 ![home](https://i.ibb.co/xCShZDk/home.png)
