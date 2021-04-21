@@ -1,0 +1,21 @@
+.map {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 200px;
+    flex-wrap: wrap;
+}
+.card-title {
+    text-align: center;
+}
+
+.google {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.google iframe {
+    max-width: 90%;
+    margin: 20px;
+}

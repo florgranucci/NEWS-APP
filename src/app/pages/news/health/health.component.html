@@ -1,0 +1,16 @@
+<section class="container">
+  <div class="card-columns">
+    <div class="card" *ngFor="let article of articles">  
+            <div class="py-3 px-lg-3 border bg-light cards col-sm">
+              <h2>{{article.title}}</h2>
+              <p class="date">{{article.publishedAt}} </p>
+              <img class="img-fluid img-thumbnail" alt="Responsive image" src='{{article.urlToImage}} ' />
+              <br>
+              <p class="text-justify description">
+              {{article.description}}
+            </p>
+            <a class="text-decoration-none" href="{{article.url}}" target="_blank">Read full article</a>
+            </div>
+      </div>
+  </div>
+</section>

@@ -1,0 +1,38 @@
+img:hover { 
+    -webkit-transform: scale(1.2);
+	transform: scale(1.2);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    border-radius: 8px;
+ }
+
+.bigContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ 
+.gall {
+    width: 80%;
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1 {
+    padding-top: 100px;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Alata', sans-serif;
+}
+
+.blocks {
+    width: 350px;
+    height: 350px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
