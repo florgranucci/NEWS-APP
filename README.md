@@ -1,5 +1,11 @@
 # NewsApp
 
+### This was my first Angular app built in 2020
+Site: https://freshdaily-news.netlify.app/
+
+![home](https://i.ibb.co/xCShZDk/home.png)
+![home](https://i.ibb.co/CsNngwT/gallery.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
 ## Development server
